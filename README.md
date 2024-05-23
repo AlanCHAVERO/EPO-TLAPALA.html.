@@ -57,7 +57,8 @@
     <p>Derechos de autor © 2024. Preparatoria EPO 344 "Mártires de 1968". Todos los derechos reservados.</p>
   </footer>
 
-  <img src="https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/436446546_122109818720271897_6499422104217494023_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=INf_AsQtv4AQ7kNvgFyWxHw&_nc_ht=scontent-qro1-2.xx&oh=00_AYDkBKtZacv2bL0VWWJbjzoCildG6yfyNrcnjc-3agmhwQ&oe=6652A4DE" alt="Preparatoria EPO 344 "Mártires de 1968"">
-  <https://www.google.com/maps/place/Escuela+Preparatoria+Oficial+No.+344/@19.2424874,-98.8458313,18z/data=!4m6!3m5!1s0x85ce18a4eca35d2b:0xa139d8a7b25af582!8m2!3d19.2430603!4d-98.8455167!16s%2Fg%2F11c2mcp2w5?entry=ttu>
+<a href=img src="https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/436446546_122109818720271897_6499422104217494023_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=INf_AsQtv4AQ7kNvgFyWxHw&_nc_ht=scontent-qro1-2.xx&oh=00_AYDkBKtZacv2bL0VWWJbjzoCildG6yfyNrcnjc-3agmhwQ&oe=6652A4DE" alt="Preparatoria EPO 344 "Mártires de 1968""</a>
+  <a <a <a href="https://www.google.com/maps/place/Escuela+Preparatoria+Oficial+No.+344/@19.2424874,-98.8458313,18z/data=!4m6!3m5!1s0x85ce18a4eca35d2b:0xa139d8a7b25af582!8m2!3d19.2430603!4d-98.8455167!16s%2Fg%2F11c2mcp2w5?entry=ttu">https://www.google.com/maps/place/Escuela+Preparatoria+Oficial+No.+344/@19.2424874,-98.8458313,18z/data=!4m6!3m5!1s0x85ce18a4eca35d2b:0xa139d8a7b25af582!8m2!3d19.2430603!4d-98.8455167!16s%2Fg%2F11c2mcp2w5?entry=ttu</a>
+
 </body>
 </html>
