@@ -9,6 +9,7 @@
   <header>
     <h1>Preparatoria EPO 344 "Mártires de 1968"</h1>
     <p>¡La mejor preparatoria de México!</p>
+    
   </header>
   
   <nav>
@@ -45,9 +46,10 @@
     <section id="contacto">
       <h2>Contacto</h2>
       <p>Si deseas obtener más información sobre la Preparatoria EPO 344 "Mártires de 1968" o estás interesado en inscribirte, no dudes en contactarnos:</p>
-      <p>Dirección: Av. Reforma #123, Ciudad de México</p>
+      <p>Dirección: La Candelaria Tlapala, Chalco, EDOMEX</p>
       <p>Teléfono: +52 55 1234 5678</p>
       <p>Correo Electrónico: info@epo344.mx</p>
+      <P>Directora: Susana Diaz Reyes</p>
     </section>
   </main>
 
@@ -56,5 +58,6 @@
   </footer>
 
   <img src="https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/436446546_122109818720271897_6499422104217494023_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=INf_AsQtv4AQ7kNvgFyWxHw&_nc_ht=scontent-qro1-2.xx&oh=00_AYDkBKtZacv2bL0VWWJbjzoCildG6yfyNrcnjc-3agmhwQ&oe=6652A4DE" alt="Preparatoria EPO 344 "Mártires de 1968"">
+  <https://www.google.com/maps/place/Escuela+Preparatoria+Oficial+No.+344/@19.2424874,-98.8458313,18z/data=!4m6!3m5!1s0x85ce18a4eca35d2b:0xa139d8a7b25af582!8m2!3d19.2430603!4d-98.8455167!16s%2Fg%2F11c2mcp2w5?entry=ttu>
 </body>
 </html>
